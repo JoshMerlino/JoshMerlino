@@ -1,0 +1,81 @@
+{
+  "icons": [
+    {
+      "src": "static/icon_512x512.5aac36871d8403698d5a551b77111e51.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_384x384.b13990ae5882bde410e791ccb09960f8.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_256x256.9db230f559ac6ba75ed1a4f557f0551f.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_192x192.4c1ed2aec4e2029df6d7b4d1b237ca7a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_128x128.51bdf6cdceb2b40c946ebf4eb24ca1f6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_96x96.568d1c1b41d7ab74c44c31bfa8e3cd88.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "static/icon_512x512.5aac36871d8403698d5a551b77111e51.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_384x384.b13990ae5882bde410e791ccb09960f8.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_256x256.9db230f559ac6ba75ed1a4f557f0551f.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_192x192.4c1ed2aec4e2029df6d7b4d1b237ca7a.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_128x128.51bdf6cdceb2b40c946ebf4eb24ca1f6.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "static/icon_96x96.568d1c1b41d7ab74c44c31bfa8e3cd88.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "name": "Josh Merlino",
+  "short_name": "Josh Merlino",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "version": "1.0.0",
+  "description": "Hi, I'm Josh. Looks like you found my home on the internet.",
+  "developerName": "Josh Merlino",
+  "developerURL": "https://joshmerlino.github.io",
+  "background_color": "#ffffff",
+  "theme_color": "#18191c"
+}
